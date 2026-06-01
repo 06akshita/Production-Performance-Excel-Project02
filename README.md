@@ -32,5 +32,5 @@ Dataset:
 Conclusion:
     This dashboard enables stakeholders to efficiently track production activities, compare performance across product categories, identify cost optimization opportunities, and make informed business decisions through interactive data visualization.
 
-Dashboard Link:
+Dashboard Link: https://github.com/06akshita/Production-Performance-Excel-Project02/blob/main/Production%20dataset%20dashboard.png
     
